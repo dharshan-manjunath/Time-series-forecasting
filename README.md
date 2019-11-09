@@ -1,6 +1,6 @@
 # Time-series-forecasting
-Time series forecasting with nonlinear autoregressive neural network
-
+Time series forecasting with nonlinear autoregressive neural network on weather station data
+ 
 Steps for prediction the values from 125 to 144 using the given model
 
 1. run the function predict.m , and include the file time series "assign#2-time series data for students.xlsx" 
